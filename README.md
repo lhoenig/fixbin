@@ -1,10 +1,13 @@
 fixbin (fix)
 ======
 
-fix binaries compiled for armv7 for armv7s.  
+Fix binaries compiled for armv7 for armv7s.  
 
-Getting this error on the new iOS devices? `Illegal Instruction: 4`  
-  
+Getting this error on newer jailbroken iOS devices? `Illegal Instruction: 4`  
+
+### Usage
 Just run `fix <executable>` !  
-  
-More info and background here: https://code.google.com/p/iphone-gcc-full/issues/detail?id=6
+
+### Background
+https://code.google.com/p/iphone-gcc-full/issues/detail?id=6  
+http://iphonesdkdev.blogspot.de/2013/02/illegal-instruction-4.html
