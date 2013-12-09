@@ -1,7 +1,7 @@
 fixbin (fix)
 ======
 
-Fix binaries compiled for armv7 for armv7s.  
+Fix binaries compiled for armv6 for armv7(s).  
 
 Getting this error on newer jailbroken iOS devices? `Illegal Instruction: 4`  
 
