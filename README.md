@@ -1,4 +1,4 @@
-fixbin (fix)
+fixbin  
 ======
 
 Fix binaries compiled for armv6 for armv7(s).  
