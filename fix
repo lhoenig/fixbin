@@ -5,7 +5,7 @@ printUsage() {
 }
 
 # exit on no argument
-if [ -e $1 ] 
+if [ -z $1 ] 
 then
 	printUsage
 	exit
